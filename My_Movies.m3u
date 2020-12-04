@@ -13,3 +13,18 @@ https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://c
 
 #EXTINF:-1, tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/fd072415d0410330b5d64708f192d6fe.jpg",จอร์น วิค3
 https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/5b4eb438b94e3ec24c0c913b2fb2e516/5b4eb438b94e3ec24c0c913b2fb2e516.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/4/464716925ae9011c39fb1f743bea58c4.jpg",Dhoom บิดท้านรก 1
+#https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/e9482c6c06dfce1f0f53bf68318bf19d/e9482c6c06dfce1f0f53bf68318bf19d.m3u8
+https://cdn-21.vip-streaming.com:30443/SunPT-4/2-ssd/movie/store-12/dhoom-1-th-en-720p.mp4/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/d/dbcd96eecb2652ee958d54be7398214a.jpg",Dhoom บิดท้านรก 2
+#https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/97b272e019625364f94733e06da98c63/97b272e019625364f94733e06da98c63.m3u8
+https://cdn-21.vip-streaming.com:30443/SunPT-4/2-ssd/movie/store-12/dhoom-2-th-en-720p.mp4/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/6/6c4e85d44ea00ce0d293b89c2e435c5c.jpg",Dhoom บิดท้านรก 3
+#https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/3c6f9d531c4ea7f9aa70f8559da6d1c2/3c6f9d531c4ea7f9aa70f8559da6d1c2.m3u8
+https://cdn-21.vip-streaming.com:30443/SunPT-4/2-ssd/movie/store-8/dhoom.3.2014.1080p.mp4/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://api.vip-streaming.com/images/movie/2EAS3sqS9EmwlTjcKbCLz5PLKx72OeHMV5BZTA0NDM0ZWMtZDI0Zi00OWI5LWJlOTYtZTk5ZjAzYzIyNjQ3XkEyXkFqcGdeQXVyNDE2NjE1Njc@._V1_UY268_CR2,0,182,268_AL_.jpg", Office พนักงานดีเดือด
+https://cdn-21.vip-streaming.com:30443/SunPT-4/2-ssd/movie/store-8/Office.2015.720p.mp4/playlist.m3u8
