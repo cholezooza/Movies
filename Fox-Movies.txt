@@ -30,3 +30,9 @@ https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Death-Race-4-Beyo
 
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/bms.dmpcdn.com/uploads/imdb/618c59cb1e29af864daede6d579167a6.jpg",Belleville Cop (2018) โคตร โปลิส มือวางอันดับแสบ
 https://cache-movie.all-movie.tv/hls/content/nas04/mvc/m/inter/Belleville-cop/Belleville-cop_T.mp4/index.m3u8?st=5fLY9QebdMo3xzg2JZ-kDA&e=1608970769&u=AllMovie
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/8/82a8ae4b2cbdc38fe8d07e7b2d5b2fb1.jpg",Daughters Of The Wolf
+https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/cd416a889d2212dc0db1e9efde409440/cd416a889d2212dc0db1e9efde409440.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/d/db2ab956c1a0dfc725555f0bd91af6cd.jpg",ร็อคกี้ ราชากำปั้น ทุบสังเวียน (2006)
+https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/ef88517fe927236deee2350f658cba46/ef88517fe927236deee2350f658cba46.m3u8
